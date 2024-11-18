@@ -9,7 +9,7 @@ Reproducibility enthusiast | Fine-mapping, GWAS | he/him/his
 Primary author or significant contribution
 ------------------------------------------
 
-<table border="0">
+<table border="0" style="border-collapse: collapse">
  <tr>
   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=gymrek-lab&repo=happler" alt="happler"></td>
   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CAST-genomics&repo=haptools" alt="haptools"></td>
@@ -26,7 +26,7 @@ Primary author or significant contribution
 Other tools I help maintain
 ---------------------------
 
-<table border="0">
+<table border="0" style="border-collapse: collapse">
  <tr>
   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=gymrek-lab&repo=TRTools" alt="TRTools"></td>
   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CAST-genomics&repo=panCT" alt="panCT"></td>
@@ -39,7 +39,7 @@ Other tools I help maintain
 Past projects
 -------------
 
-<table border="0">
+<table border="0" style="border-collapse: collapse">
  <tr>
   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=studycloud&repo=studycloud" alt="demux"></td>
   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=VarBench" alt="VarBench"></td>
@@ -55,7 +55,7 @@ Past projects
 Tools I have contributed to
 ---------------------------
 
-<table border="0">
+<table border="0" style="border-collapse: collapse">
  <tr>
   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=bmvdgeijn&repo=WASP" alt="WASP"></td>
   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=snakemake&repo=snakemake" alt="snakemake"></td>
