@@ -6,37 +6,43 @@ Reproducibility enthusiast | Fine-mapping, GWAS | he/him/his
 
 -----------------------------
 
-Primary author
---------------
+Primary author or significant contribution
+------------------------------------------
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gymrek-lab&repo=happler)
+![happler](https://github-readme-stats.vercel.app/api/pin/?username=gymrek-lab&repo=happler)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CAST-genomics&repo=haptools)
+![haptools](https://github-readme-stats.vercel.app/api/pin/?username=CAST-genomics&repo=haptools)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=VarCA)
+![VarCA](https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=VarCA)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=as_analysis)
+![as_analysis](https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=as_analysis)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelabhmc&repo=flower_map)
+![flower_map](https://github-readme-stats.vercel.app/api/pin/?username=beelabhmc&repo=flower_map)
 
 Other tools I help maintain
 ---------------------------
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gymrek-lab&repo=TRTools)
+![TRTools](https://github-readme-stats.vercel.app/api/pin/?username=gymrek-lab&repo=TRTools)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gymrek-lab&repo=panct)
+![panCT](https://github-readme-stats.vercel.app/api/pin/?username=CAST-genomics&repo=panCT)
 
-Tools I have contributed to
----------------------------
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bmvdgeijn&repo=WASP)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snakemake&repo=snakemake)
+![core](https://github-readme-stats.vercel.app/api/pin/?username=gymrek-lab&repo=core)
 
 Past projects
 -------------
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=VarBench)
+![demux](https://github-readme-stats.vercel.app/api/pin/?username=studycloud&repo=studycloud)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=sc_rats)
+![VarBench](github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=VarBench)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=str_ase)
+![sc_rats](https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=sc_rats)
+
+![demux](https://github-readme-stats.vercel.app/api/pin/?username=zrcjessica&repo=demux)
+
+![demux](https://github-readme-stats.vercel.app/api/pin/?username=beelabhmc&repo=ant_tracker)
+
+Tools I have contributed to
+---------------------------
+
+![WASP](https://github-readme-stats.vercel.app/api/pin/?username=bmvdgeijn&repo=WASP)
+
+![snakemake](https://github-readme-stats.vercel.app/api/pin/?username=snakemake&repo=snakemake)
