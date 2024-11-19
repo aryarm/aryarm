@@ -74,8 +74,8 @@ Past projects
     </a>
 </div>
 
-Tools I have contributed to
----------------------------
+Projects I have contributed to
+------------------------------
 
 <p float="left">
     <a href="https://github.com/bmvdgeijn/WASP">
@@ -83,5 +83,10 @@ Tools I have contributed to
     </a>
     <a href="https://github.com/snakemake/snakemake">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=snakemake&repo=snakemake" alt="snakemake" width="48%">
+    </a>
+</p>
+<p float="left">
+    <a href="https://github.com/bioconda/bioconda-recipes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bioconda&repo=bioconda-recipes" alt="bioconda-recipes" width="48%" style="margin-right: 1%;">
     </a>
 </div>
