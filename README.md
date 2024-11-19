@@ -6,8 +6,8 @@ Reproducibility enthusiast | Fine-mapping, GWAS | he/him/his
 
 -----------------------------
 
-Primary author or significant contribution
-------------------------------------------
+My work
+-------
 
 <p float="left">
     <a href="https://github.com/gymrek-lab/happler">
@@ -18,15 +18,15 @@ Primary author or significant contribution
     </a>
 </p>
 <p float="left">
-    <a href="https.com/username=aryarm/VarCA">
+    <a href="https://github.com/aryarm/VarCA">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=VarCA" alt="VarCA" width="48%" style="margin-right: 1%;">
     </a>
-    <a href="https.com/username=aryarm/as_analysis">
+    <a href="https://github.com/aryarm/as_analysis">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=as_analysis" alt="as_analysis" width="48%">
     </a>
 </p>
 <p float="left">
-    <a href="https.com/username=beelabhmc/flower_map">
+    <a href="https://github.com/beelabhmc/flower_map">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=beelabhmc&repo=flower_map" alt="flower_map" width="48%" style="margin-right: 1%;">
     </a>
 </table>
@@ -53,23 +53,23 @@ Past projects
 -------------
 
 <p float="left">
-    <a href="https.com/username=studycloud/studycloud">
+    <a href="https://github.com/studycloud/studycloud">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=studycloud&repo=studycloud" alt="demux" width="48%" style="margin-right: 1%;">
     </a>
-    <a href="https.com/username=aryarm/VarBench">
+    <a href="https://github.com/aryarm/VarBench">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=VarBench" alt="VarBench" width="48%">
     </a>
 </p>
 <p float="left">
-    <a href="https.com/username=aryarm/sc_rats">
+    <a href="https://github.com/aryarm/sc_rats">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryarm&repo=sc_rats" alt="sc_rats" width="48%" style="margin-right: 1%;">
     </a>
-    <a href="https.com/username=zrcjessica/demux">
+    <a href="https://github.com/zrcjessica/demux">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zrcjessica&repo=demux" alt="demux" width="48%">
     </a>
 </p>
 <p float="left">
-    <a href="https.com/username=beelabhmc/ant_tracker">
+    <a href="https://github.com/beelabhmc/ant_tracker">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=beelabhmc&repo=ant_tracker" alt="demux" width="48%" style="margin-right: 1%;">
     </a>
 </div>
@@ -78,10 +78,10 @@ Tools I have contributed to
 ---------------------------
 
 <p float="left">
-    <a href="https.com/username=bmvdgeijn/WASP">
+    <a href="https://github.com/bmvdgeijn/WASP">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmvdgeijn&repo=WASP" alt="WASP" width="48%" style="margin-right: 1%;">
     </a>
-    <a href="https.com/username=snakemake/snakemake">
+    <a href="https://github.com/snakemake/snakemake">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=snakemake&repo=snakemake" alt="snakemake" width="48%">
     </a>
 </div>
