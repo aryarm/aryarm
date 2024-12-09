@@ -90,3 +90,23 @@ Projects I have contributed to
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=bioconda&repo=bioconda-recipes" alt="bioconda-recipes" width="48%" style="margin-right: 1%;">
     </a>
 </div>
+
+Other helpful resources and fun projects
+----------------------------------------
+
+<p float="left">
+    <a href="https://github.com/aryarm/demo-docker-action">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=aryarm&repo=demo-docker-action" alt="demo-docker-action" width="48%" style="margin-right: 1%;">
+    </a>
+    <a href="https://github.com/aryarm/transit">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=aryarm&repo=transit" alt="transit" width="48%">
+    </a>
+</p>
+<p float="left">
+    <a href="https://github.com/aryarm/stepik-cli">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=aryarm&repo=stepik-cli" alt="stepik-cli" width="48%" style="margin-right: 1%;">
+    </a>
+    <a href="https://github.com/aryarm/hmcbbq">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=aryarm&repo=hmcbbq" alt="hmcbbq" width="48%">
+    </a>
+</div>
