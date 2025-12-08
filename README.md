@@ -78,16 +78,19 @@ Projects I have contributed to
 ------------------------------
 
 <p float="left">
-    <a href="https://github.com/bmvdgeijn/WASP">
+    <a href="https://github.com/gmcvicker/WASP/pulls?q=is%3Amerged+author%3Aaryarm">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=bmvdgeijn&repo=WASP" alt="WASP" width="48%" style="margin-right: 1%;">
     </a>
-    <a href="https://github.com/snakemake/snakemake">
+    <a href="https://github.com/snakemake/snakemake/pulls?q=is%3Amerged+author%3Aaryarm">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=snakemake&repo=snakemake" alt="snakemake" width="48%">
     </a>
 </p>
 <p float="left">
-    <a href="https://github.com/bioconda/bioconda-recipes">
+    <a href="https://github.com/bioconda/bioconda-recipes/pulls?q=is%3Amerged+author%3Aaryarm">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=bioconda&repo=bioconda-recipes" alt="bioconda-recipes" width="48%" style="margin-right: 1%;">
+    </a>
+    <a href="https://github.com/chrchang/plink-ng/pulls?q=is%3Amerged+author%3Aaryarm">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&username=chrchang&repo=plink-ng" alt="bioconda-recipes" width="48%" style="margin-right: 1%;">
     </a>
 </div>
 
